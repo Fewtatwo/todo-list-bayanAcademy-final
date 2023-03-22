@@ -1,11 +1,11 @@
 # todo-list-bayanAcademy-final
-Final Project: To-Do List
+### Final Project: To-Do List
 
-Create a simple To-Do List using HTML, CSS, and JavaScript.
+Create a simple To-Do List using HTML, CSS, and JavaScript.  
 (You can also use
-Bootstrap or Tailwind if you want to).
-Upload your working folder in LMS under Assignments &gt; Final Project. Working folder’s
-name format: FinalProject_LastName-FirstName
+Bootstrap or Tailwind if you want to).  
+Upload your working folder in LMS under Assignments &gt; Final Project.  
+Working folder’s name format: <strong>FinalProject_LastName-FirstName</strong>
 
 #### The following functionalities should be in the program:
 ##### Landing Page
