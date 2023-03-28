@@ -91,22 +91,29 @@ input[type=submit]:hover {
 
 input::placeholder {
     text-align: center;
+    color: black;
+    
 }
-
 
 input{
     text-align: center;
     height: 20px;
     padding: 3px;
     border-radius: 10px;
-    border: 1px solid gray;
-    background-color: rgb(249, 242, 242);
+    border: 1px #4c1d95 solid;
+    background-color: #4d1d9517;
+}
+
+input:focus {
+    outline: none;
+    background-color: white;
+    transition: .4s ease;
 }
 
 /* MainPage CSS*/
 
 .mainpage-center {
-    border:1px #4c1d95 solid;
+    border:2px #4c1d95 solid;
     background-color: #c3b5fd5e;
     border-radius: 15px;
     width: 400px;
